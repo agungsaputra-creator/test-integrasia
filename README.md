@@ -1,3 +1,11 @@
+# installasi dan penggunaan
+
+1. ketika clone awal silahkan untuk melakukan perintah npm install agar menginstall node/modules yang dibutuhkan.
+   "npm install"
+
+2. Untuk menjalankan aplikasi silahkan untuk mengetik npm run dev / yarn dev pada terminal.
+   "npm run dev" / "yarn dev"
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
